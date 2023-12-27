@@ -4,7 +4,7 @@
   "plugins": [
     {
       "id": "asset-library",
-      "title": "Assets Library",
+      "title": "AEM Assets Library",
       "environments": [
         "edit"
       ],
